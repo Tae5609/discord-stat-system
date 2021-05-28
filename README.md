@@ -8,4 +8,8 @@ How to setup?
 4. Type node index.js (in cmd)
 5. Enjoy with your bot!!
 
+Have a problem?
+1. Go to issues tab
+2. New issues
+
 CAUTION : IF UR COMPUTER MEMORY LESSTHEN 4 GB PLS DON'T OPEN index.js IN VS CODE (U NEED TO OPEN IN NOTEPAD++/NOTEPAD)
