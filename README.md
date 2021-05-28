@@ -7,3 +7,5 @@ How to setup?
 3. Configurate the config file (token + channel id)
 4. Type node index.js (in cmd)
 5. Enjoy with your bot!!
+
+CAUTION : IF UR COMPUTER MEMORY LESSTHEN 4 GB PLS DON'T OPEN index.js IN VS CODE (U NEED TO OPEN IN NOTEPAD++/NOTEPAD)
