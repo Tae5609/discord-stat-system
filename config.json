@@ -1,0 +1,18 @@
+{
+    "token": "",
+    "guild_id": "",
+    "setting": {
+        "date": true,
+        "on_idle_dnd_off": true
+    },
+    "ch_config": {
+        "date": "📅 {date}",
+        "on_idle_dnd_off": "🔋{on} 🌙{idle} ⛔{dnd} ⚫{off}"
+    },
+    "ch_id": {
+        "date": "",
+        "on_idle_dnd_off": ""
+    },
+    "month_list": ["Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sept", "Oct", "Nov", "Dec"],
+    "delay": 301000
+}
